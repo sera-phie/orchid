@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_img/img folder.md",
+                "file": "Main Page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "img folder"
+              "title": "Main Page"
             }
           }
         ]
@@ -184,10 +184,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "560b6aecd0972ded",
+  "active": "f80e97eb248a6088",
   "lastOpenFiles": [
-    "Worlds/worlds folder.md",
     "_img/img folder.md",
+    "Worlds/worlds folder.md",
     "Stories/stories folder.md",
     "Finance/Wishlist/VA/va folder.md",
     "Finance/Wishlist/wishlist folder.md",
