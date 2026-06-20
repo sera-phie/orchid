@@ -1,4 +1,8 @@
 {
   "cssTheme": "Typewriter",
-  "theme": "system"
+  "theme": "obsidian",
+  "interfaceFontFamily": "FantasqueSansM Nerd Font",
+  "textFontFamily": "FantasqueSansM Nerd Font",
+  "monospaceFontFamily": "FantasqueSansM Nerd Font Mono",
+  "baseFontSize": 18
 }

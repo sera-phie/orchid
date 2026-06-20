@@ -11,14 +11,12 @@
             "id": "f80e97eb248a6088",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Languages/Astiga/Astiga Language Family.md",
-                "mode": "source",
-                "source": false
+                "file": "_img/m_w_Maarsi_lam_riv.svg"
               },
-              "icon": "lucide-file",
-              "title": "Astiga Language Family"
+              "icon": "lucide-image",
+              "title": "m_w_Maarsi_lam_riv"
             }
           }
         ]
@@ -185,9 +183,18 @@
   },
   "active": "f80e97eb248a6088",
   "lastOpenFiles": [
-    "_img/m_w_tmpNm.svg",
-    "_img/m_w_tmpNm.png",
+    "_img/m_w_Maarsi_lam.svg",
+    "_img/m_w_Maarsi_cli.png",
+    "_img/m_w_Maarsi_lam_riv.svg",
+    "_img/m_w_Maarsi_sat.png",
+    "_img/Lagukeia 2026-06-20-16-03.svg",
+    "_img/orogen.svg",
+    "_img/m_w_Maarsi_ter.png",
+    "Worlds/Maarsi/Maarsi.md",
+    "_img/m_w_Maarsi.png",
     "Main Page.md",
+    "_img/m_w_Maarsi.svg",
+    "Worlds/Maarsi",
     "Languages/Astiga/Astiga Language Family.md",
     "_img/img folder.md",
     "Languages/Astiga",

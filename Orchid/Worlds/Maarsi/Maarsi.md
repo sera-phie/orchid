@@ -1,0 +1,1 @@
+Maarsi is the main world that will hold the majority of all conlang projects. The name is derived from Old Esti *mārsi*, meaning "world".
