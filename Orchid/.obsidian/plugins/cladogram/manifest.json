@@ -1,0 +1,9 @@
+{
+  "id": "easy-cladogram",
+  "name": "Easy Cladogram",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Renders simple indented lists as right-angled cladograms with working wiki-links.",
+  "author": "Custom AI Build",
+  "isDesktopOnly": false
+}

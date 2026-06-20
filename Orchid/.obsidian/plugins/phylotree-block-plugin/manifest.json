@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-phylotree-plugin",
+	"name": "Phylotree Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.12.0",
+	"description": "Display newick and nexus code blocks using phylotree.",
+	"author": "nickynicolson",
+	"authorUrl": "https://github.com/echinopscis/obsidian-phylotree",
+	"isDesktopOnly": true
+}

@@ -1,0 +1,43 @@
+.easy-clade-container ul {
+  list-style: none;
+  padding-left: 2em;
+  margin: 0;
+}
+
+.easy-clade-container li {
+  position: relative;
+  padding-left: 0.5em;
+  margin-top: 0.2em;
+}
+
+.easy-clade-container li::before {
+  content: "";
+  position: absolute;
+  top: 0.8em;
+  left: -1.5em;
+  width: 1.5em;
+  border-top: 1px solid var(--text-normal);
+}
+
+.easy-clade-container li::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -1.5em;
+  bottom: 0;
+  border-left: 1px solid var(--text-normal);
+}
+
+.easy-clade-container li:last-child::after {
+  bottom: auto;
+  height: 0.8em;
+}
+
+.easy-clade-container > ul > li::before,
+.easy-clade-container > ul > li::after {
+  display: none;
+}
+
+.easy-clade-container > ul {
+  padding-left: 0;
+}
