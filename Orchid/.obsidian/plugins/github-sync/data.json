@@ -1,8 +1,8 @@
 {
-  "remoteURL": "",
+  "remoteURL": "https://github.com/sera-phie/obsidian-sync.git",
   "gitLocation": "",
   "syncinterval": 0,
-  "isSyncOnLoad": false,
+  "isSyncOnLoad": true,
   "checkStatusOnLoad": true,
   "noticeLevel": "ALL",
   "showSyncSuccessNotice": true
