@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Page.md",
+                "file": "Languages/Astiga/Astiga Language Family.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main Page"
+              "title": "Astiga Language Family"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "2346e0641fad5ff3",
@@ -184,22 +184,22 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f80e97eb248a6088",
+  "active": "560b6aecd0972ded",
   "lastOpenFiles": [
+    "Languages/Astiga",
+    "Main Page.md",
     "_img/img folder.md",
     "Worlds/worlds folder.md",
     "Stories/stories folder.md",
     "Finance/Wishlist/VA/va folder.md",
     "Finance/Wishlist/wishlist folder.md",
     "Finance/finance folder.md",
-    "Main Page.md",
-    "Languages/Untitled",
     "Finance/Wishlist/VA",
     "Finance/Wishlist",
     "Finance",
     "Stories",
     "Worlds",
-    "Languages/Astiga Language Family.md",
+    "Languages/Astiga/Astiga Language Family.md",
     "Languages",
     "_img"
   ]
