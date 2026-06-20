@@ -184,10 +184,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "560b6aecd0972ded",
+  "active": "f80e97eb248a6088",
   "lastOpenFiles": [
-    "Languages/Astiga",
     "Main Page.md",
+    "Languages/Astiga/Astiga Language Family.md",
+    "Languages/Astiga",
     "_img/img folder.md",
     "Worlds/worlds folder.md",
     "Stories/stories folder.md",
@@ -199,7 +200,6 @@
     "Finance",
     "Stories",
     "Worlds",
-    "Languages/Astiga/Astiga Language Family.md",
     "Languages",
     "_img"
   ]
