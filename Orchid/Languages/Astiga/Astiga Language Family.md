@@ -8,6 +8,8 @@ The **Astiga** language family is a major language family on the planet of [[Maa
       * [[Middle Esti]]
         * [[Esti]]
         * [[Western Esti]]
+    * [[Old Metriune]]
+      * [[Early Metriune]]
 ```
 
 The word *\*vīnrś* "city" in all Astiga languages:
@@ -18,6 +20,19 @@ The word *\*vīnrś* "city" in all Astiga languages:
       * *vãinroh*
         * *vaidro*
         * *beendro*
+    * *guēnres*
+      * *gėėres*
 ```
 
 
+The word *\*ārvi* "it" in all Astiga languages:
+```cladogram
+* *\*ārvi*
+  * *ārvə*
+    * *ārwi*
+      * *ōrui*
+        * *orvi*
+        * *uarĝi*
+    * *āngue*
+      * *ȧȧge*
+```
