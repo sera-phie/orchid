@@ -4,3 +4,4 @@ This Obsidian wiki is for my constructed languages and my constructed worlds. If
 * Clone this repo
 * Open this repo as a vault in Obsidian
 * Enjoy - all themes and plugins should work after trusting the author & enabling
+* If you would like all my latest drafts as well, clone the `draft` branch.
