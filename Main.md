@@ -6,5 +6,3 @@ This is the main page of my Orchid Wiki, which contains my conlang & conworlding
 
 ## Worlds
 * [[Maarsi]]
-
-ver. m1.12 - Last commit: 2026-06-23 18:54:27
