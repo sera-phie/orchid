@@ -1,0 +1,1 @@
+The settlement of **Curowe** ([ˈkʰju.ɹoʊ̯ ~ ˈkʰjə.ɹoʊ̯] < interpreted *le cureau, le courau* from [AN]{Anglo-Norman} *Lecoureau, Lecureau, Lecourau, Lecurau* < [OE]{Old Esti} *Mlokoreō*)
