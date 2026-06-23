@@ -25,12 +25,14 @@
             "id": "61f25d4a568d4d8d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "_img/ink_Maarsi.svg"
+                "file": "Worlds/Maarsi/Maarsi Timeline.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "ink_Maarsi"
+              "icon": "lucide-file",
+              "title": "Maarsi Timeline"
             }
           }
         ],
@@ -211,15 +213,15 @@
   },
   "active": "61f25d4a568d4d8d",
   "lastOpenFiles": [
-    "_img/m_w_Maarsi_cli.png",
+    "Worlds/Maarsi/Maarsi Timeline.md",
+    "Worlds/Maarsi/Maarsi.md",
     "_img/ink_Maarsi.svg",
+    "_img/m_w_Maarsi_cli.png",
     "Languages/Astiga/Astiga Language Family.md",
     "_img/m_w_Maarsi_lam_riv.svg",
     "_img/m_w_Maarsi_lam.svg",
     "_img/m_w_Maarsi_sat.png",
     "_img/m_w_Maarsi_ter.png",
-    "Worlds/Maarsi/Maarsi.md",
-    "Worlds/Maarsi/Maarsi Timeline.md",
     "_img/ink_Maarsi",
     "_img/m_w_Maarsi_sat.png-autosave.kra",
     "Main Page.md",
