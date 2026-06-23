@@ -2,6 +2,7 @@ This is the main page of my Orchid Wiki, which contains my conlang & conworlding
 
 ## Language Families
 * [[Astiga Language Family]]
+* [[Nakka Language Family]]
 
 ## Worlds
 * [[Maarsi]]

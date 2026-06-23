@@ -1,0 +1,1 @@
+The island of **Enaspec** (also known as **Enaspeck** or **Enaspoc** < [AN]{Anglo-Norman} *==Enassepec==*, *==Inassepoc==*, *==Enassepayque==* < [CE]{Classical Esti} *==Janāsəspaga==* "horizon island") [...]
