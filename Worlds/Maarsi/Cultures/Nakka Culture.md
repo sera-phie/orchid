@@ -3,3 +3,5 @@ The **Nakka Culture** is one of the oldest known cultures of [[Maarsi]]. While i
 The following are a list of settlements erected during Stone Age Nakka:
 * [[Tawačura]]
 * [[Xušakka]]
+* [[Xanuriš]]
+* [[Šawkipačči]]
