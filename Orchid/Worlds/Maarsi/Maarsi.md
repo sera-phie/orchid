@@ -1,4 +1,4 @@
-**Maarsi** is the main world that will hold the majority of all conlang projects.
+**Maarsi** is the main world that will hold the majority of all conlang projects. You can additionally view the [[Maarsi Timeline|history of Maarsi]].
 ### Planetary Information
 * Day length: **25.11 hours**
 * Orbit length: **403.187 days**

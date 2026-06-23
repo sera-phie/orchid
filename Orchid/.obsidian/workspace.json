@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Astiga Language Family"
             }
+          },
+          {
+            "id": "61f25d4a568d4d8d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_img/ink_Maarsi.svg"
+              },
+              "icon": "lucide-image",
+              "title": "ink_Maarsi"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,18 +209,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "f80e97eb248a6088",
+  "active": "61f25d4a568d4d8d",
   "lastOpenFiles": [
-    "Main Page.md",
-    "Worlds/Maarsi/Maarsi.md",
-    "Languages/Astiga/Astiga Language Family.md",
-    "_img/m_w_Maarsi_lam.svg",
-    "_img/m_w_Maarsi_lam_riv.svg",
     "_img/m_w_Maarsi_cli.png",
+    "_img/ink_Maarsi.svg",
+    "Languages/Astiga/Astiga Language Family.md",
+    "_img/m_w_Maarsi_lam_riv.svg",
+    "_img/m_w_Maarsi_lam.svg",
     "_img/m_w_Maarsi_sat.png",
+    "_img/m_w_Maarsi_ter.png",
+    "Worlds/Maarsi/Maarsi.md",
+    "Worlds/Maarsi/Maarsi Timeline.md",
+    "_img/ink_Maarsi",
+    "_img/m_w_Maarsi_sat.png-autosave.kra",
+    "Main Page.md",
     "_img/Lagukeia 2026-06-20-16-03.svg",
     "_img/orogen.svg",
-    "_img/m_w_Maarsi_ter.png",
     "_img/m_w_Maarsi.png",
     "_img/m_w_Maarsi.svg",
     "Worlds/Maarsi",
@@ -223,7 +240,6 @@
     "Finance",
     "Stories",
     "Worlds",
-    "Languages",
-    "_img"
+    "Languages"
   ]
 }
