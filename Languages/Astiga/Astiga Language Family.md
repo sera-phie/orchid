@@ -23,16 +23,3 @@ The word *\*vīnrś* "city" in all Astiga languages:
     * *guēnres*
       * *gėėres*
 ```
-
-
-The word *\*ārvi* "it" in all Astiga languages:
-```cladogram
-* *\*ārvi*
-  * *ārvə*
-    * *ārwi*
-      * *ōrui*
-        * *orvi*
-        * *uarĝi*
-    * *āngue*
-      * *ȧȧge*
-```
