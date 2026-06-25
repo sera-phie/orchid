@@ -2,4 +2,5 @@ The **Nakka** language family is a major language family within the western cont
 ### Family Tree
 ```cladogram
 * [[Proto-Nakka]] †
+  * [[Proto-Patunari]] †
 ```
