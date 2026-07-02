@@ -1,0 +1,3 @@
+The **Dzehimka culture** was a minor cultural group located in the world of [[Maarsi]].
+### Contact and Evidence
+Historical and archaeological evidence of the Dzehimka people is very limited, surviving entirely within accounts documented by the [[Astiga Culture|Astiga]] people. Astiga records describe the Dzehimka as speaking an unintelligible language originating from a town referred to as [[Ater]]. The town name, however, has no attestation from the [[Dzehimka Language Family|Dzehimka language]] itself; instead, the name originates from one of the only attested [[Astiga Language Family|Proto-Astiga]] words: atŕ.
