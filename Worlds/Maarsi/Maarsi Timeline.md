@@ -1,7 +1,7 @@
 ```chronos
 # Technological Eras
 @ [-20000~-10000] #green Nomadic Era
-@ [-10000~-4500] #blue Stone Age
+@ [-10000~-4500] #blue Neolithic Age
 @ [-4500~-500] #red Bronze Age
 @ [-500~1200] #yellow Iron Age / Classical Era
 @ [1200~1650] #green Early Steam Age / Middle Ages
