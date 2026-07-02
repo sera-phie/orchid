@@ -6,8 +6,8 @@ This is the main page of my Orchid Wiki, which contains my conlang & conworlding
 ### Cultures
 - [[Astiga Culture]]
 - [[Nakka Culture]]
-- Dzehimka Culture
-- Ankayiz Culture
+- [[Dzehimka Culture]]
+- [[Ankayiz Culture]]
 
 ## Worlds
 * [[Maarsi]]
